@@ -1,7 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
 
-function App() {
+export const App = () => {
   return (
     <div className="App">
       <h1>Hola</h1>
@@ -10,4 +9,3 @@ function App() {
   );
 }
 
-export default App;
