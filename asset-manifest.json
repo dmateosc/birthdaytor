@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/birthdaytor/static/css/main.073c9b0a.css",
-    "main.js": "/birthdaytor/static/js/main.51b41abe.js",
+    "main.js": "/birthdaytor/static/js/main.e9bde7c0.js",
     "static/media/logo.svg": "/birthdaytor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/birthdaytor/index.html",
     "main.073c9b0a.css.map": "/birthdaytor/static/css/main.073c9b0a.css.map",
-    "main.51b41abe.js.map": "/birthdaytor/static/js/main.51b41abe.js.map"
+    "main.e9bde7c0.js.map": "/birthdaytor/static/js/main.e9bde7c0.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.51b41abe.js"
+    "static/js/main.e9bde7c0.js"
   ]
 }
