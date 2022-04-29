@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/birthdaytor/static/js/main.ed6917c7.js",
+    "main.js": "/birthdaytor/static/js/main.447e25b6.js",
     "index.html": "/birthdaytor/index.html",
-    "main.ed6917c7.js.map": "/birthdaytor/static/js/main.ed6917c7.js.map"
+    "main.447e25b6.js.map": "/birthdaytor/static/js/main.447e25b6.js.map"
   },
   "entrypoints": [
-    "static/js/main.ed6917c7.js"
+    "static/js/main.447e25b6.js"
   ]
 }
