@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/birthdaytor/static/js/main.1c2a2fbc.js",
+    "main.js": "/birthdaytor/static/js/main.da186570.js",
+    "static/media/hug-bear.gif": "/birthdaytor/static/media/hug-bear.044ccf9c5ecaff3214ba.gif",
     "index.html": "/birthdaytor/index.html",
-    "main.1c2a2fbc.js.map": "/birthdaytor/static/js/main.1c2a2fbc.js.map"
+    "main.da186570.js.map": "/birthdaytor/static/js/main.da186570.js.map"
   },
   "entrypoints": [
-    "static/js/main.1c2a2fbc.js"
+    "static/js/main.da186570.js"
   ]
 }
